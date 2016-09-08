@@ -1,4 +1,4 @@
 Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Movie: cat 
+ Favorite Food: dog 
+ Favorite Candy:money
